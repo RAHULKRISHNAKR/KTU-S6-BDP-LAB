@@ -1,3 +1,32 @@
+'''
+Algorithm for the R Program
+Load Necessary Library
+
+Load the readr library to read CSV files.
+Read Data
+
+Read data from a CSV file using the read_csv function.
+Store the data in a variable data.
+Extract Data Columns
+
+Extract the first column of the data and store it in data1.
+Extract the second column of the data and store it in data2.
+Calculate Variance
+
+Compute the variance of data1.
+Print the variance of data1.
+Compute the variance of data2.
+Print the variance of data2.
+Calculate Covariance
+
+Compute the covariance between data1 and data2.
+Print the covariance value.
+Calculate Correlation Coefficient
+
+Compute the correlation coefficient between data1 and data2.
+Print the correlation coefficient value.
+'''
+
 # Load necessary library
 library(readr)
 
